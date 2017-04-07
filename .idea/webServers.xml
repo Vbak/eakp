@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37e2ca37-4bab-43a0-9b28-ada151ed2b10" name="DEV EAKP" url="http://87.98.166.194">
+        <fileTransfer host="87.98.166.194" port="21" password="df9bdf8fdf93df9ddf8fdf9cdfccdff2df93dff3dfc0dfc3dfcddf93dfc1df98" username="devuser@dev.eakp.gr">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
