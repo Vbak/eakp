@@ -2466,10 +2466,12 @@ Responsive Structure
       padding-right: 0;
    }
    #header-right-section {
-      float: none;
+      float: right;
+	   width: 61%;
    }
    #header-right-section .widget {
       text-align:center;
+	   margin-bottom: 8px;
    }
    .menu-toggle {
       display: block;
@@ -2515,6 +2517,15 @@ Responsive Structure
 
 }
 @media screen and (max-width: 600px) {
+
+	#header-right-section .widget {
+		text-align:center;
+		margin-bottom: 8px;
+	}
+
+	.wp-custom-header {
+		float: left;
+	}
    .news-bar {
       text-align: center;
    }
