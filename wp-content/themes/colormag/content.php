@@ -35,7 +35,7 @@
          <?php
             the_excerpt();
          ?>
-         <a class="more-link" title="<?php the_title(); ?>" href="<?php the_permalink(); ?>"><span><?php _e( 'Read more', 'colormag' ); ?></span></a>
+         <a class="more-link" title="<?php the_title(); ?>" href="<?php the_permalink(); ?>"><span><?php _e( 'Περισσότερα', 'colormag' ); ?></span></a>
       </div>
 
    </div>

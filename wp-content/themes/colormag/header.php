@@ -45,7 +45,15 @@ wp_head();
             </div>
          <?php endif; ?>
 
-
+			<div class="contact-us">
+				<div class="inner-wrap clearfix">
+					<ul class="contact_details">
+						<li><a href="tel:6978520351">Τηλ: 6978520351 - 6934865812</a></li>
+						<li><a href="tel:Fax:2674-022211">Fax: 2674-022211</a></li>
+						<li><a href="mailto:poeyps@yahoo.com">email: info@eakp.com</a></li>
+					</ul>
+				</div>
+			</div>
 
 			<div class="inner-wrap">
 
