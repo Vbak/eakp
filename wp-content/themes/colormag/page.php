@@ -11,6 +11,7 @@ get_header(); ?>
 	<?php do_action( 'colormag_before_body_content' ); ?>
 
 	<div id="primary">
+
 		<div id="content" class="clearfix">
 			<?php while ( have_posts() ) : the_post(); ?>
 

@@ -7,7 +7,9 @@
  * @since ColorMag 1.0
  */
 ?>
-
+<div class="custom-message-old-ste clearfix">
+    <p><strong>Καλως ήρθατε στο νέο μας site! Μέχρι την ολοκλήρωση της μεταφοράς μπορείτε να χρησιμοποιείται παράλληλα το <a href="http://www.old.eakp.gr">παλιό site.</a>  </strong></p>
+</div>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php do_action( 'colormag_before_post_content' ); ?>
 

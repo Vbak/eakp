@@ -2,7 +2,7 @@
 
 <?php if ( $related_posts->have_posts() ): ?>
 
-<h4 class="related-posts-main-title"><i class="fa fa-thumbs-up"></i><span><?php _e('You May Also Like', 'colormag'); ?></span></h4>
+<h4 class="related-posts-main-title"><i class="fa fa-thumbs-up"></i><span><?php _e('Περισσότερα άρθρα', 'colormag'); ?></span></h4>
 
 <div class="related-posts clearfix">
 

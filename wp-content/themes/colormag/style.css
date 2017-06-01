@@ -2219,6 +2219,11 @@ a#scroll-up:hover {
 	margin-left: 10px;
 }
 
+.custom-message-old-ste {
+	text-align: center;
+	text-decoration-style: double;
+}
+
 
 .breaking-news {
    float: left;

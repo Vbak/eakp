@@ -28,6 +28,9 @@ get_header(); ?>
       </div>
    </div>
    <div class="main-content-section clearfix">
+      <div class="custom-message-old-ste clearfix">
+         <p><strong>Καλως ήρθατε στο νέο μας site! Μέχρι την ολοκλήρωση της μεταφοράς μπορείτε να χρησιμοποιείται παράλληλα το <a href="http://www.old.eakp.gr">παλιό site.</a>  </strong></p>
+      </div>
       <div id="primary">
          <div id="content" class="clearfix">
 
