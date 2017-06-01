@@ -2200,17 +2200,23 @@ a#scroll-up:hover {
 }
 
 .contact-us {
-	margin: auto;
-	width: 50%;
+	overflow: hidden;
+	width: 100%;
 }
 
 .contact_details {
 	list-style: none;
-	display: inline;
+	position: relative;
+	float: left; display:
+		block; left: 50%;
 }
 
 .contact_details li {
+	position: relative;
 	float: left;
+	display: block;
+	right: 50%;
+	margin-left: 10px;
 }
 
 
