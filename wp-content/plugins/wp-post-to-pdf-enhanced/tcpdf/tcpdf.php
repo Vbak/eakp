@@ -3256,8 +3256,10 @@ class TCPDF {
 		$ret = array();
 		$ret['logo'] = $this->header_logo;
 		$ret['logo_width'] = $this->header_logo_width;
-		$ret['title'] = $this->header_title;
-		$ret['string'] = $this->header_string;
+		$ret['title'] = 'Ε Ν Ω Τ Ι Κ Η    Α Γ Ω Ν Ι Σ Τ Ι Κ Η     Κ Ι Ν Η Σ Η    Π Υ Ρ Ο Σ Β Ε Σ Τ Ω N';//$this->header_title;
+		$ret['string'] = ' Της  Πανελλήνιας  Ομοσπονδίας  Ενώσεων  Υπαλλήλων  Πυροσβεστικού  Σώματος                   .
+Τηλ.: 6978520351 - 6934865812, Fax: 2674022211, web site: www.eakp.gr, e-mail: info@eakp.gr
+';//$this->header_string;
 		$ret['text_color'] = $this->header_text_color;
 		$ret['line_color'] = $this->header_line_color;
 		return $ret;
